@@ -1,3 +1,10 @@
+/*
+Chapter 2 group exercise:
+
+Enter the subtotal and a gratuity rate: 10 15
+The gratuity is $1.5 and total is $11.5
+*/
+
 import java.util.Scanner; //import scanner
 
 public class CalcTotal {
@@ -14,10 +21,3 @@ public class CalcTotal {
 		System.out.println("The gratuity is $" + gratuityRate + " and total is $" + subTotal); //print whole statement w/ results
 	}
 }
-
-/*
-Chapter 2 group exercise:
-
-Enter the subtotal and a gratuity rate: 10 15
-The gratuity is $1.5 and total is $11.5
-*/
