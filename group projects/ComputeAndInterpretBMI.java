@@ -1,3 +1,12 @@
+/*
+Chapter 3 group exercise:
+
+Enter weight in pounds: 146.0
+Enter height in inches: 70.0
+BMI is 20.948603801493316
+Normal
+*/
+
 import java.util.Scanner;
 
 public class ComputeAndInterpretBMI {
@@ -27,12 +36,3 @@ public class ComputeAndInterpretBMI {
             System.out.println("Obese"); 
     }
 }
-
-/*
-Chapter 3 group exercise:
-
-Enter weight in pounds: 146.0
-Enter height in inches: 70.0
-BMI is 20.948603801493316
-Normal
-*/
