@@ -29,6 +29,8 @@ public class ComputeAndInterpretBMI {
 }
 
 /*
+Chapter 3 group exercise:
+
 Enter weight in pounds: 146.0
 Enter height in inches: 70.0
 BMI is 20.948603801493316
