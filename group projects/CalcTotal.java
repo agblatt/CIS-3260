@@ -16,6 +16,8 @@ public class CalcTotal {
 }
 
 /*
+Chapter 2 group exercise:
+
 Enter the subtotal and a gratuity rate: 10 15
 The gratuity is $1.5 and total is $11.5
 */
